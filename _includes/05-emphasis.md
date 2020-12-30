@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Skills
+1. *Typing*
+2. _Fast typing_
+3. **Reading**
+4. __Fast Reading__
